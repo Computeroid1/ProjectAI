@@ -19,7 +19,7 @@ This repository includes:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ProjectAI.git
+git clone https://github.com/Computeroid1/ProjectAI.git
 ```
 
 2. Navigate into a specific project folder:
@@ -63,7 +63,7 @@ Contributions are welcome! If you'd like to add a new AI project or improve an e
 
 ## 📖 License
 
-This project is licensed under the MIT License – see the [LICENSE](https://github.com/Computeroid1/ProjectAI/LICENSE) file for details.
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/Computeroid1/ProjectAI/blob/main/LICENSE) file for details.
 
 ---
 
